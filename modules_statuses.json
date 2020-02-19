@@ -1,0 +1,9 @@
+{
+    "Common": true,
+    "User": true,
+    "LeaderRegistration": true,
+    "Finance": true,
+    "Sms": true,
+    "Viber": true,
+    "News": true
+}
